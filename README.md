@@ -1,8 +1,8 @@
 # study-roadmap
-A roadmap to Technologies  to study
+A roadmap to new Technologies  to study
 
-[] Angular
-[] Nest JS
-[] Express
-[] GraphQL
-[] Tests
+- [ ] Angular
+- [ ] Nest JS
+- [ ] Express
+- [ ] GraphQL
+- [ ] Tests
